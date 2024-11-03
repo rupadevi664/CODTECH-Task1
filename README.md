@@ -7,6 +7,9 @@ MENTOR:SANTHOSH
 
 OVERVIEW OF THE PROJECT
 PROJECT:DOING CALCULATION USING ADDITION,SUBTRACTION,MULTIPLICATION,DIVISION!
-![Screenshot 2024-11-03 215523](https://github.com/user-attachments/assets/1b235dc9-4866-4c4a-ae1c-f1e8a501d03e)
+![Screenshot 2024-11-03 220502](https://github.com/user-attachments/assets/8c729e89-c6f2-4b8c-9c44-38082c37ca25)
+![Screenshot 2024-11-03 220514](https://github.com/user-attachments/assets/41093eaa-5b7c-4d16-8884-b9a1ec727a79)
+
+
 
 
